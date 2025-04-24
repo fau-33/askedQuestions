@@ -1,3 +1,4 @@
+/* Base Styles */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -23,4 +24,82 @@ header h1 {
 header h5 {
   font-size: 1rem;
   margin-top: 0.5rem;
+}
+
+main .question {
+  background-color: #d2d5da;
+  padding: 1.5rem 0;
+  height: auto; /* Adjusted for responsiveness */
+  margin: 1rem 0;
+  text-align: justify;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+main .question-content {
+  padding: 0 1.5rem;
+  margin-right: 13rem;
+  margin-left: 13rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+main .question-content h2 {
+  font-size: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+main .question-content p {
+  margin-bottom: 1.5rem;
+}
+
+main .question-content ol,
+main .question-content ul {
+  margin-left: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+/* Tablet (1024px) */
+@media (max-width: 1024px) {
+  main .question-content {
+    margin-right: 5rem;
+    margin-left: 5rem;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  main .question-content h2 {
+    font-size: 1.15rem;
+  }
+}
+
+/* Mobile (640px) */
+@media (max-width: 640px) {
+  main .question-content {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+
+  header h1 {
+    font-size: 1.75rem;
+  }
+
+  header h5 {
+    font-size: 0.9rem;
+  }
+
+  main .question-content h2 {
+    font-size: 1rem;
+  }
+
+  main .question-content p {
+    font-size: 0.95rem;
+  }
+
+  main .question-content ol,
+  main .question-content ul {
+    margin-left: 1.5rem;
+  }
 }
