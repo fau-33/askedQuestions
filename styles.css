@@ -27,9 +27,9 @@ header h5 {
 }
 
 main .question {
-  background-color: #d2d5da;
+  background-color: #f8fafc;
   padding: 1.5rem 0;
-  height: auto; /* Adjusted for responsiveness */
+  height: auto;
   margin: 1rem 0;
   text-align: justify;
   font-weight: 400;
