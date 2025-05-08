@@ -1,45 +1,36 @@
-# devChallenges
-
-<h1 align="center">https://asked-questions.vercel.app/ | devChallenges</h1>
+# Simple FAQ Challenge | devChallenges
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for the <a href="https://devchallenges.io/challenge/simple-faq-challenge " target="_blank">Simple FAQ Challenge</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://asked-questions.vercel.app/ " target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/fau-33 " target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/simple-faq-challenge">
+    <a href="https://devchallenges.io/challenge/simple-faq-challenge " target="_blank">
       Challenge
     </a>
   </h3>
 </div>
 
-<!-- OVERVIEW -->
-
 ## Overview
 
-### Built with
+### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- Semantic HTML5 markup
-- CSS custom properties
+- Semantic HTML5
+- CSS Custom Properties
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://asked-questions.vercel.app/) challenge.
+A simple FAQ page created as part of the [DevChallenges](https://devchallenges.io/) project. Provides a responsive and user-friendly interface for displaying frequently asked questions.
 
 ## Author
 
-- Website [your-website.com](https://{https://codepen.io/Flavio-Leandro/pen/poMQqem})
-- GitHub [@your-username](https://{https://github.com/fau-33})
+- Website: [GitHub Profile](https://github.com/fau-33)
